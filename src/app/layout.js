@@ -1,5 +1,5 @@
 import '../styles/globals.css';
-import Sidebar from './components/sidebar';
+import Sidebar from './components/Sidebar';
 import { personalData } from '../data/page-data';
 
 export const metadata = {
