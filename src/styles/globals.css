@@ -4,10 +4,10 @@
 
 @layer base {
     h1 {
-        @apply text-yellow text-4xl sm:text-6xl;
+        @apply text-yellow text-4xl sm:text-4xl;
     }
     h2 {
-        @apply text-2xl;
+        @apply text-xl;
     }
     h3 {
         @apply text-lg;
@@ -16,7 +16,7 @@
         @apply text-base;
     }
     p {
-        @apply text-base;
+        @apply text-[0.9rem];
     }
     h1,
     h2,

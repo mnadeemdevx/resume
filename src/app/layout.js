@@ -10,9 +10,9 @@ export const metadata = {
 export default function RootLayout({ children }) {
     return (
         <html lang="en">
-            <body className="flex flex-col sm:flex-row">
+            <body className="flex flex-col lg:flex-row">
                 <Sidebar data={personalData} />
-                <main className="grow-full p-8 sm:p-16 basis-2/3 ml-auto w-full bg-grey">
+                <main className="grow-full p-8 lg:p-16 basis-2/3 ml-auto w-full bg-grey">
                     {children}
                 </main>
             </body>

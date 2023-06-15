@@ -1,18 +1,17 @@
 import React from 'react';
 import Image from 'next/image';
-import { Envelope, Twitter, Linkedin, Medium } from '../../icons/';
+import { Envelope, Twitter, Linkedin } from '../../icons/';
 
 const Sidebar = ({ data }) => {
     const { name, role, education, contactLinks } = data;
     return (
-        <div className="bg-black flex flex-col h-auto content-between w-full sm:h-screen sm:justify-around sm:w-1/3 sm:fixed">
+        <div className="bg-black flex flex-col h-auto content-between w-full lg:h-screen lg:justify-around lg:w-1/3 lg:fixed">
             <div className="text-white flex flex-col items-center p-10">
                 <Image
                     priority
                     width={300}
                     height={300}
                     className="rounded-full h-full mb-6"
-                    // src="/images/julian-wan-WNoLnJo7tS8-unsplash.jpg"
                     src="/images/cv.jpeg"
                     alt="julian-wan-WNoLnJo7tS8-unsplash.jpg"
                     aria-label="julian-wan-WNoLnJo7tS8-unsplash.jpg"

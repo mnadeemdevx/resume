@@ -6,7 +6,7 @@ export const personalData = {
         'Masters in Computer Science, Virtual University (2023-2025)',
     ],
     contactLinks: [
-        'mailto:emailto:muhammadnadeem.1596@gmail.com',
+        'mailto:muhammadnadeem.1596@gmail.com',
         'https://twitter.com/iamnadii10',
         'https://www.linkedin.com/in/mn-frontend-developer-reactjs/',
     ],
@@ -52,19 +52,25 @@ export const professionalData = {
     title: 'Professional Experience',
     experiences: [
         {
+            role: 'Discord Moderator, Blue Willow Inc. (Feb 2023 - Present)',
+            description:
+                'Discord moderators are the backbone of thriving online communities. With their dedication, knowledge, and fairness, they ensure a safe and inclusive environment for users. They effectively enforce rules, resolve conflicts, and promote healthy discussions. Their commitment to maintaining a positive atmosphere fosters engagement and builds a strong sense of community among Discord users.',
+            current: true,
+        },
+        {
             role: 'Discord Expert/Community Manager, Upwork. (Feb 2022 - Present)',
             description:
                 'Discord moderators are the backbone of thriving online communities. With their dedication, knowledge, and fairness, they ensure a safe and inclusive environment for users. They effectively enforce rules, resolve conflicts, and promote healthy discussions. Their commitment to maintaining a positive atmosphere fosters engagement and builds a strong sense of community among Discord users.',
             current: true,
         },
         {
-            role: 'Full Stack Developer, Techoverflow Inc. (Mar 2022 - Apr 2023)',
+            role: 'Full Stack Developer, Techoverflow. (Mar 2022 - Apr 2023)',
             description:
                 'Full stack developers are versatile professionals skilled in both front-end and back-end development. With expertise in various programming languages, frameworks, and databases, they create dynamic and interactive web applications. Their ability to handle both client-side and server-side technologies enables them to design and implement end-to-end solutions, delivering seamless user experiences and robust functionality.',
             current: false,
         },
         {
-            role: 'Customer Service Representative, TransData Inc. (Nov 2019- Mar 2022)',
+            role: 'Customer Service Representative, TransData. (Nov 2019- Mar 2022)',
             description:
                 'Customer service representatives are the front line of any business, providing support and assistance to customers. With their excellent communication skills, patience, and problem-solving abilities, they ensure customer satisfaction by addressing inquiries, resolving issues, and providing product or service information. Their friendly and professional demeanor creates positive interactions, leaving customers with a favorable impression of the company.',
             current: false,

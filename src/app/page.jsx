@@ -9,7 +9,6 @@ const page = () => {
         <div className="">
             <AboutMe data={aboutMe} />
             <ProfessionalExp data={professionalData} />
-            {/* <ProfessionalSkills /> */}
         </div>
     );
 };
