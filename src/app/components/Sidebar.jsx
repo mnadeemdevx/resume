@@ -12,7 +12,7 @@ const Sidebar = ({ data }) => {
                     width={300}
                     height={300}
                     className="rounded-full h-full mb-6"
-                    src="/images/cv.jpeg"
+                    src="/images/cv.jpg"
                     alt="julian-wan-WNoLnJo7tS8-unsplash.jpg"
                     aria-label="julian-wan-WNoLnJo7tS8-unsplash.jpg"
                 />

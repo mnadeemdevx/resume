@@ -8,17 +8,18 @@ export const personalData = {
     contactLinks: [
         'mailto:muhammadnadeem.1596@gmail.com',
         'https://twitter.com/iamnadii10',
-        'https://www.linkedin.com/in/mn-frontend-developer-reactjs/',
+        'https://www.linkedin.com/in/mnadeemdev/',
     ],
 };
 
 export const aboutMe = {
     title: 'About Me',
     body: [
-        'As a highly motivated and driven individual with a passion for making a positive impact, I have a unique blend of technical and interpersonal skills, thanks to my background in computer science. I am able to tackle complex problems with ease, and I never lose sight of my ultimate goal, even when facing challenges.',
-        'I am passionate about the user experience and always strive to create interfaces that are intuitive and easy to navigate, both on the web and on Discord. I am a problem solver, and I enjoy the challenge of finding creative solutions to complex design and development problems, as well as fostering a healthy and engaged community on Discord.',
-        'In addition to my technical skills, I am a strong communicator and team player. I am comfortable working in fast-paced, collaborative environments and I enjoy working closely with designers, project managers, developers, other moderators and community managers to deliver the best possible product and to foster a positive and productive community.',
-        'I am always looking to learn and grow as a developer and a moderator and I am excited about new opportunities in the field of web development and community management.',
+        "Hello there! 👋 I'm Muhammad Nadeem, a passionate and versatile Full Stack Developer with a strong dedication to building robust and user-friendly web applications. In addition to my technical prowess, I take great pride in my role as a Community-Driven Discord Moderator, where I foster an inclusive and engaging environment for fellow enthusiasts.",
+        'With 1+ years of experience in Full Stack Development, I have honed my skills in both frontend and backend technologies. I thrive in creating intuitive and visually appealing user interfaces using modern frameworks like React and Next. On the backend, I excel in crafting scalable and efficient server-side applications using Node.js and Express.js. My proficiency extends to working with databases such as MySQL, MongoDB, and PostgreSQL, ensuring seamless data management and retrieval.',
+        'From conceptualization to deployment, I am well-versed in the entire web development lifecycle. My expertise in HTML, CSS, and JavaScript allows me to transform ideas into fully functional websites that captivate users and deliver outstanding user experiences. Moreover, I am experienced in building responsive and mobile-friendly applications to reach a broader audience.',
+        'As a fervent supporter of fostering thriving communities, I also serve as a dedicated Discord Moderator. By creating a safe and engaging space, I enable members to share their passions, knowledge, and ideas freely. My commitment to maintaining positive interactions, resolving conflicts, and upholding community guidelines has played a crucial role in nurturing a welcoming atmosphere for enthusiasts from all walks of life.',
+        'In the ever-evolving world of technology, I embrace lifelong learning and continuously seek to enhance my skills. I stay up-to-date with the latest industry trends and best practices, enabling me to leverage cutting-edge technologies and frameworks in my projects. By engaging in collaborative projects and contributing to open-source initiatives, I aim to give back to the developer community and inspire others to embark on their coding journeys.',
     ],
 };
 
@@ -33,6 +34,7 @@ export const skills = {
         { icon: '⌛️', text: 'Internet Exploring' },
     ],
     hard: [
+        { icon: '✅', text: 'Discord Moderation' },
         { icon: '✨', text: 'Community Management' },
         { icon: '🟠', text: 'Community Engagement' },
         { icon: '💻', text: 'HTML' },
@@ -66,6 +68,12 @@ export const professionalData = {
         },
         {
             role: 'Discord Expert/Community Manager, Upwork. (Feb 2022 - Present)',
+            description:
+                'Discord moderators are the backbone of thriving online communities. With their dedication, knowledge, and fairness, they ensure a safe and inclusive environment for users. They effectively enforce rules, resolve conflicts, and promote healthy discussions. Their commitment to maintaining a positive atmosphere fosters engagement and builds a strong sense of community among Discord users.',
+            current: true,
+        },
+        {
+            role: 'Discord Expert/Community Manager, Fiverr. (Feb 2022 - Present)',
             description:
                 'Discord moderators are the backbone of thriving online communities. With their dedication, knowledge, and fairness, they ensure a safe and inclusive environment for users. They effectively enforce rules, resolve conflicts, and promote healthy discussions. Their commitment to maintaining a positive atmosphere fosters engagement and builds a strong sense of community among Discord users.',
             current: true,
