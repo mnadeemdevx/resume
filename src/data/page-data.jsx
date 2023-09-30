@@ -35,7 +35,6 @@ export const skills = {
     hard: [
         { icon: '✨', text: 'Community Management' },
         { icon: '🟠', text: 'Community Engagement' },
-        { icon: '🏆', text: 'Discord Moderation' },
         { icon: '💻', text: 'HTML' },
         { icon: '🔴', text: 'CSS' },
         { icon: '⭐', text: 'JavaScript' },
@@ -45,7 +44,6 @@ export const skills = {
         { icon: '💾', text: 'Node.js' },
         { icon: '📈', text: 'MongoDB' },
         { icon: '🎲', text: 'Express.js' },
-        { icon: '🟡', text: 'Nest.js' },
         { icon: '🎉', text: 'mySQL' },
         { icon: '🔥', text: 'GitHub' },
     ],
