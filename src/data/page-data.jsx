@@ -33,6 +33,9 @@ export const skills = {
         { icon: '⌛️', text: 'Internet Exploring' },
     ],
     hard: [
+        { icon: '✨', text: 'Community Management' },
+        { icon: '🟠', text: 'Community Engagement' },
+        { icon: '🏆', text: 'Discord Moderation' },
         { icon: '💻', text: 'HTML' },
         { icon: '🔴', text: 'CSS' },
         { icon: '⭐', text: 'JavaScript' },
