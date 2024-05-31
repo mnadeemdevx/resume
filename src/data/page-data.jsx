@@ -7,8 +7,8 @@ export const personalData = {
     ],
     contactLinks: [
         'mailto:muhammadnadeem.1596@gmail.com',
-        'https://twitter.com/iamnadii10',
-        'https://www.linkedin.com/in/mnadeemdev/',
+        'https://twitter.com/mnadeemdev',
+        'https://www.linkedin.com/in/mnadeemdevx/',
     ],
 };
 
@@ -37,6 +37,7 @@ export const skills = {
         { icon: '✅', text: 'Discord Moderation' },
         { icon: '✨', text: 'Community Management' },
         { icon: '🟠', text: 'Community Engagement' },
+        { icon: '🔵', text: 'Discord Server Creation' },
         { icon: '💻', text: 'HTML' },
         { icon: '🔴', text: 'CSS' },
         { icon: '⭐', text: 'JavaScript' },
@@ -55,18 +56,6 @@ export const professionalData = {
     title: 'Professional Experience',
     experiences: [
         {
-            role: 'Discord Moderator, Cultos Inc. (Sep 2023 - Present)',
-            description:
-                'Monitor the Discord server. Enforce community guidelines. Maintain a clean and organized server structure. Mediate disputes and conflicts. Actively initiate conversations related to NFTs, blockchain, new token listings, digital art, brand loyalty innovation. Curate relevant news, updates, and resources related to the industry',
-            current: true,
-        },
-        {
-            role: 'Discord Moderator, Blue Willow Inc. (Feb 2023 - Present)',
-            description:
-                'Monitoring chat for inappropriate or offensive language or behavior. Muting or banning users who violate the server rules. Answering user questions and providing assistance. Helping to resolve conflicts between users. Enforcing Blue Willow-specific policies and procedures. Providing feedback to the Blue Willow team on ways to improve the community.',
-            current: true,
-        },
-        {
             role: 'Discord Expert/Community Manager, Upwork. (Feb 2022 - Present)',
             description:
                 'Discord moderators are the backbone of thriving online communities. With their dedication, knowledge, and fairness, they ensure a safe and inclusive environment for users. They effectively enforce rules, resolve conflicts, and promote healthy discussions. Their commitment to maintaining a positive atmosphere fosters engagement and builds a strong sense of community among Discord users.',
@@ -77,6 +66,18 @@ export const professionalData = {
             description:
                 'Discord moderators are the backbone of thriving online communities. With their dedication, knowledge, and fairness, they ensure a safe and inclusive environment for users. They effectively enforce rules, resolve conflicts, and promote healthy discussions. Their commitment to maintaining a positive atmosphere fosters engagement and builds a strong sense of community among Discord users.',
             current: true,
+        },
+        {
+            role: 'Discord Moderator, Cultos Inc. (Sep 2023 - Oct 2023)',
+            description:
+                'Monitor the Discord server. Enforce community guidelines. Maintain a clean and organized server structure. Mediate disputes and conflicts. Actively initiate conversations related to NFTs, blockchain, new token listings, digital art, brand loyalty innovation. Curate relevant news, updates, and resources related to the industry',
+            current: false,
+        },
+        {
+            role: 'Discord Moderator, Blue Willow Inc. (Feb 2023 - Nov 2023)',
+            description:
+                'Monitoring chat for inappropriate or offensive language or behavior. Muting or banning users who violate the server rules. Answering user questions and providing assistance. Helping to resolve conflicts between users. Enforcing Blue Willow-specific policies and procedures. Providing feedback to the Blue Willow team on ways to improve the community.',
+            current: false,
         },
         {
             role: 'Full Stack Developer, Techoverflow. (Mar 2022 - Apr 2023)',
