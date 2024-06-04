@@ -1,6 +1,6 @@
 export const personalData = {
     name: 'Muhammad Nadeem',
-    role: 'Full Stack Developer & Community-Driven Discord Moderator',
+    role: 'MERN Stack Developer & Discord Community Manager',
     education: [
         'Associate Degree in Information Technology, University of Punjab (2020-2022)',
         'Masters in Computer Science, Virtual University (2023-2025)',
@@ -56,14 +56,12 @@ export const professionalData = {
     experiences: [
         {
             role: 'Discord Expert/Community Manager, Upwork. (Feb 2022 - Present)',
-            description:
-                'Discord moderators are the backbone of thriving online communities. With their dedication, knowledge, and fairness, they ensure a safe and inclusive environment for users. They effectively enforce rules, resolve conflicts, and promote healthy discussions. Their commitment to maintaining a positive atmosphere fosters engagement and builds a strong sense of community among Discord users.',
+            description: '',
             current: true,
         },
         {
             role: 'Discord Expert/Community Manager, Fiverr. (Feb 2022 - Present)',
-            description:
-                'Discord moderators are the backbone of thriving online communities. With their dedication, knowledge, and fairness, they ensure a safe and inclusive environment for users. They effectively enforce rules, resolve conflicts, and promote healthy discussions. Their commitment to maintaining a positive atmosphere fosters engagement and builds a strong sense of community among Discord users.',
+            description: '',
             current: true,
         },
         {
@@ -81,19 +79,19 @@ export const professionalData = {
         {
             role: 'Full Stack Developer, Techoverflow. (Mar 2022 - Apr 2023)',
             description:
-                'Full stack developers are versatile professionals skilled in both front-end and back-end development. With expertise in various programming languages, frameworks, and databases, they create dynamic and interactive web applications. Their ability to handle both client-side and server-side technologies enables them to design and implement end-to-end solutions, delivering seamless user experiences and robust functionality.',
+                'Over the past 9 months, I focused on mastering web development with HTML5, CSS3, SASS, Tailwind CSS, JavaScript, and React.js, working on various projects to create engaging and visually appealing web applications. In the following 3 months, I intensively studied backend technologies, including Node.js, MySQL, Git, GitHub, Express.js, and MongoDB, participating in projects to apply these skills. This experience has provided me with a strong foundation in both frontend and backend development, ensuring I can create robust and efficient web applications while adhering to best practices in design and functionality.',
             current: false,
         },
         {
             role: 'Customer Service Representative, TransData. (Nov 2019- Mar 2022)',
             description:
-                'Customer service representatives are the front line of any business, providing support and assistance to customers. With their excellent communication skills, patience, and problem-solving abilities, they ensure customer satisfaction by addressing inquiries, resolving issues, and providing product or service information. Their friendly and professional demeanor creates positive interactions, leaving customers with a favorable impression of the company.',
+                'As a Customer Service Representative, I spent nearly a year as an outbound caller, verifying employment details in the USA and UK to update directories. This role enhanced my skills in customer service, data verification, and telephone etiquette. Additionally, I dedicated 1.5 years as a Quality Assurance Specialist, ensuring call quality and maintaining high standards of accuracy and professionalism. This experience refined my expertise in quality assurance and effective communication, making me well-equipped to excel in similar roles with precision and diligence.',
             current: false,
         },
         {
             role: "Crew Member, McDonald's. (July 2018- Feb 2019)",
             description:
-                'As a crew member, i play a vital role in ensuring smooth operations and delivering exceptional customer service. With our friendly demeanor and efficient work ethic, we take orders, prepare food, handle transactions, and maintain cleanliness. We are able to multitask, work well in a team, and provide a positive dining experience to get best customer satisfaction.',
+                "During my tenure as a crew member at McDonald's, I contributed my skills in various roles, including cashier, production, and fries stations. This experience allowed me to develop strong teamwork, multitasking, and customer service abilities. I thrive in a fast-paced environment and pride myself on delivering exceptional service to customers",
             current: false,
         },
     ],
