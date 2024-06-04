@@ -65,13 +65,13 @@ export const professionalData = {
             current: true,
         },
         {
-            role: 'Discord Moderator, Cultos Inc. (Sep 2023 - Oct 2023)',
+            role: 'Discord Moderator, Cultos. (Sep 2023 - Oct 2023)',
             description:
                 'Monitor the Discord server. Enforce community guidelines. Maintain a clean and organized server structure. Mediate disputes and conflicts. Actively initiate conversations related to NFTs, blockchain, new token listings, digital art, brand loyalty innovation. Curate relevant news, updates, and resources related to the industry',
             current: false,
         },
         {
-            role: 'Discord Moderator, Blue Willow Inc. (Feb 2023 - Nov 2023)',
+            role: 'Discord Moderator, BlueWillow. (Feb 2023 - Nov 2023)',
             description:
                 'Monitoring chat for inappropriate or offensive language or behavior. Muting or banning users who violate the server rules. Answering user questions and providing assistance. Helping to resolve conflicts between users. Enforcing Blue Willow-specific policies and procedures. Providing feedback to the Blue Willow team on ways to improve the community.',
             current: false,
