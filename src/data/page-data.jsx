@@ -15,10 +15,10 @@ export const personalData = {
 export const aboutMe = {
     title: 'About Me',
     body: [
-        "Hi! I'm Muhammad Nadeem, a Full Stack Developer with over 5 years of experience in creating robust user-friendly web applications, I've honed my skills in both frontend and backend technologies, specializing in React.js, Next.js, Node.js, and Express.js. I'm also adept at managing various databases, including MySQL, MongoDB, and PostgreSQL",
+        "Hi! I'm Muhammad Nadeem, a MERN Stack Developer with over 5 years of experience in creating robust user-friendly web applications, I've honed my skills in both frontend and backend technologies, specializing in React.js, Next.js, Node.js, and Express.js. I'm also adept at managing various databases, including MySQL, MongoDB, and PostgreSQL",
         "Beyond coding, I've spent over 3 years as a dedicated Discord Moderator and Community Manager, shaping vibrant and inclusive online communities. I believe in fostering positive interactions and creating safe spaces where members can freely share their passions and knowledge",
         "While learning and growing in this ever-evolving field, I always stay updated with the latest industry trends and best practices. Whether it's through collaborating on projects or contributing to open-source initiatives",
-        "Let's connect and explore how we can collaborate or exchange insights!'",
+        "Let's connect and explore how we can collaborate or exchange insights!",
     ],
 };
 
